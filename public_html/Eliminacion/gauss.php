@@ -8,14 +8,14 @@
         font-family: Arial, sans-serif;
         text-align: center;
         padding: 20px;
-        background-color:rgb(0, 0, 0); /* Verde claro de fondo */
+        background-color: #e6f4ea; /* Verde claro de fondo */
         color: #2e7031; /* Texto en verde oscuro */
     }
 
     table {
         margin: 10px auto;
         border-collapse: collapse;
-        background-color:rgb(51, 51, 51); /* Fondo blanco para tabla */
+        background-color: #ffffff; /* Fondo blanco para tabla */
         box-shadow: 0 0 10px rgba(46, 112, 49, 0.2);
     }
 
